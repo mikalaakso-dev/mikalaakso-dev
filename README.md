@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-
 🔹 Who I Am 🔹
 I'm a forward-thinking software developer with a solid foundation in web development and a deep passion for leveraging AI to solve complex business challenges. My experience spans from crafting engaging web applications using JavaScript and ReactJS to diving deep into the potential of AI and cloud technologies for innovative solutions.
 
@@ -13,4 +10,5 @@ Armed with certifications in DevOps, Scrum, and AI, and practical experience in 
 
 🔹 Let's Connect! 🔹
 I'm on a mission to transform challenges into opportunities using code and AI. Let's connect to explore how we can solve complex problems and drive success together.
--->
+
+
