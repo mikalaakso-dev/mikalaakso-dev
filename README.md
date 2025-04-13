@@ -1,14 +1,7 @@
-### Hi there 👋
+💡 Innostuin ohjelmoinnista vuonna 2017, kun pyöritin verkkokauppaa Espanjassa. Aikaa jäi uuden oppimiseen, ja aloitin ohjelmointitaipaleeni Harvardin CS50-luentojen ja FreeCodeCampin avulla. Vaikka alussa oli haastavaa, ongelmien ratkaisu, ohjelmoinnin logiikka ja jatkuva kehittyminen veivät mukanaan.
 
+2021 aloitin työni Service Deskissä, jossa opin asiakaspalvelua, ongelmanratkaisua ja järjestelmäympäristöjä käytännön tasolla. Myöhemmin etenin Process controller tehtäviin. Samalla suoritin kursseja AWS:stä, tietoturvasta (TryHackMe, Google Cybersecurity Professional), ja aloin tehdä omia frontend-projekteja.
 
-🔹 **Who I Am** 🔹  
-I'm a forward-thinking software developer with a solid foundation in web development and a deep passion for leveraging AI to solve complex business challenges. My experience spans from crafting engaging web applications using JavaScript and ReactJS to diving deep into the potential of AI and cloud technologies for innovative solutions.
+Vuonna 2024 pääsin kehittämään Azure-pohjaista integraatiosovellusta, joka lisäsi kiinnostustani pilvipalveluihin. Keväällä 2025 suoritin AZ-104-sertifikaatin ja tähtään nyt junioritason DevOps-, pilvi- tai tietoturvarooliin, jossa voin kasvaa asiantuntijaksi.
 
-🔹 **My Belief** 🔹  
-I firmly believe that with the right application of AI, there's no problem too big to solve. This belief drives my commitment to continuous learning and adapting, ensuring I can deliver impactful solutions across any business context.
-
-🔹 **My Skills** 🔹  
-Armed with certifications in DevOps, Scrum, and AI. I'm equipped to code, develop, and deploy scalable applications that meet the dynamic needs of modern businesses.
-
-🔹 **Let's Connect!** 🔹  
-I'm on a mission to transform challenges into opportunities using code and AI. Let's connect to explore how we can solve complex problems and drive success together.
+🔧 Teknologiat: Azure (Functions, Azure Storage, VNETs, Virtual Machines, Entra ID, Monitorointi), JavaScript, React, Python, Linux, REST APIs, Docker
